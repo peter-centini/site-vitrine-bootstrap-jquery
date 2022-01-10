@@ -2,8 +2,8 @@
 
 
 
-#### Démarrer projet avec Sass 
-* `npm run sass`
+#### Démarrer projet 
+* `npm run start`
 
 <p align="center">
 <img src="https://github.com/peter-centini/site-vitrine-bootstrap-jquery/blob/main/site%20vitrine.png" width="350" title="screen website">
