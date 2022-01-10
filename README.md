@@ -6,7 +6,7 @@
 * `npm run sass`
 
 <p align="center">
-<img src="https://github.com/peter-centini/Fllappy-games/blob/main/media/screen-flappy-bird.png" width="350" title="screen website">
+<img src="https://github.com/peter-centini/site-vitrine-bootstrap-jquery/blob/main/site%20vitrine.png" width="350" title="screen website">
 </p>
 
 
